@@ -875,11 +875,11 @@ As always, strive for consistency.
 
 <a href="#toc">Back to top</a>
 
-{@a 05-02}
+{@a 02-06}
 
 ### Component selectors
 
-#### Style 05-02
+#### Style 02-06
 
 <div class="s-rule do">
 
@@ -893,17 +893,17 @@ As always, strive for consistency.
 
 </div>
 
-<code-example path="styleguide/src/05-02/app/heroes/shared/hero-button/hero-button.component.avoid.ts" region="example" header="app/heroes/shared/hero-button/hero-button.component.ts">
+<code-example path="styleguide/src/02-06/app/heroes/shared/hero-button/hero-button.component.avoid.ts" region="example" header="app/heroes/shared/hero-button/hero-button.component.ts">
 
 </code-example>
 
 <code-tabs>
 
-  <code-pane header="app/heroes/shared/hero-button/hero-button.component.ts" path="styleguide/src/05-02/app/heroes/shared/hero-button/hero-button.component.ts" region="example">
+  <code-pane header="app/heroes/shared/hero-button/hero-button.component.ts" path="styleguide/src/02-06/app/heroes/shared/hero-button/hero-button.component.ts" region="example">
 
   </code-pane>
 
-  <code-pane header="app/app.component.html" path="styleguide/src/05-02/app/app.component.html">
+  <code-pane header="app/app.component.html" path="styleguide/src/02-06/app/app.component.html">
 
   </code-pane>
 
